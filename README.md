@@ -12,6 +12,9 @@ I chose to implement the following two sections:
 
 **Why this track?** I wanted to showcase my experience with LLM integrations and function calling. The brief generator demonstrates how AI can streamline campaign creation by automatically generating structured creative briefs based on minimal inputs, with tools for trend research and audience targeting.
 
+![flowchart](https://github.com/user-attachments/assets/fff404ad-fa52-48ac-901a-f1e023ea4e9d)
+
+
 ### 📈 D. Batch ETL & Top-Performer API
 
 **Why this track?** This section demonstrates my ability to build efficient data processing pipelines and expose analytics through a well-designed API. It showcases my skills in handling large datasets and optimizing database queries to deliver valuable insights.
