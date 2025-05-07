@@ -71,7 +71,7 @@ I chose to implement the following two sections:
 
 ```bash
 git clone https://github.com/vinaykumar231/fame_keeda_chalange.git
-cd fame-keeda-challenge
+cd app
 ```
 
 2. **Set up environment variables**
